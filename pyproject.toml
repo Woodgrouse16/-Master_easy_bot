@@ -1,10 +1,10 @@
 [project]
-name = "python-template"
+name = "mastereasybot"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Telegram bot for scheduling"
+authors = ["Woodgrouse16 <iryabov91@yandex.ru>"]
 requires-python = ">=3.11"
 dependencies = [
-    "aiogram>=3.21.0",
-    "python-dotenv>=1.1.1",
+    "aiogram==2.25.2",
+    "python-dotenv>=0.21.0",
 ]
